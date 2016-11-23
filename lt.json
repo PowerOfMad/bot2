@@ -65,8 +65,8 @@
     "online": "/me %%BOTNAME%% sėkmingai paleistas!!",
 
 
-    "welcome": "/me Sveiki atvykę į 舞~ Tнeclaѕѕιc lT ~舞 muzikos kambarį @%%NAME%% Įsileisk į save geros nuotaikos, bei įvairių hitų dozės! Bendrauk su visais, nes čia renkasi tik draugiškiausi žmonės. Malonaus klausymo!",
-    "welcomeback": "/me @%%NAME%% Sveiki sugrįžę į 舞~ Tнeclaѕѕιc lT ~舞 muzikos kambarį! :)",
+    "welcome": "/me Sveiki atvykę į lııl Lithuanian  Paradise lııl muzikos kambarį @%%NAME%% Įsileisk į save geros nuotaikos, bei įvairių hitų dozės! Bendrauk su visais, nes čia renkasi tik draugiškiausi žmonės. Malonaus klausymo!",
+    "welcomeback": "/me @%%NAME%% Sveiki sugrįžę į lııl Lithuanian  Paradise lııl muzikos kambarį! :)",
     "songknown": "/me @%%NAME%%, daina jau yra grojusi.",
     "timelimit": "/me @%%NAME%%, Jūsų daina buvo ilgesnė nei %%MAXLENGTH%% minutės.",
     "permissionownsong": "/me :up: @%%NAME%% turi teisę groti savo muziką!",
@@ -162,7 +162,7 @@
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% vartotojas buvo kambaryje %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] Jūs negalite išmesti vartotojų kurie turi aukštesnes pareigas negu Jūs!",
     "kick": "/me [@%%NAME%%], @%%USERNAME%% Jūs buvote išspirtas iš kambario %%TIME%% minutėms.",
-    "kill": "/me Išjungiamos visos sistemos.",
+    "kill": "/me Botas išjungtas.",
     "rouletteleave": "/me @%%NAME%% paliko ruletės žaidimą!",
     "songlink": "/me [@%%NAME%%] Dabartinės dainos nuoroda: %%LINK%%",
     "usedlockskip": "/me [%%NAME%% aktyvavo lockskip komandą.]",
